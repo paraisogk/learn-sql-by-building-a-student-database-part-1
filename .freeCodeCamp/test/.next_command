@@ -57,3 +57,4 @@ declare -p IFS
 \l
 \ls
 rm students_test.csv
+rm courses_test.csv
