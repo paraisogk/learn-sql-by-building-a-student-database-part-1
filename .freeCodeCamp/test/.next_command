@@ -34,3 +34,4 @@ touch insert_data.sh
 chmod +x
 chmod +x insert_data.sh
 ./insert_data.sh
+./insert_data.sh
